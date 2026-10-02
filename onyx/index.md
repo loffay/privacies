@@ -31,8 +31,11 @@ téléphone.
   combien de temps, l'effort ressenti.
 - **Partenaires d'entraînement**, si tu en ajoutes : le prénom que tu tapes,
   une couleur, et les séances qu'ils ont faites avec toi sur ce téléphone.
-  Ce sont des données sur d'autres personnes : rien ne leur est demandé ni
-  envoyé, et tu peux les retirer quand tu veux.
+  Ce sont des données sur d'autres personnes : rien ne leur est demandé, et
+  tu peux les retirer quand tu veux (Profil › Partenaires) — leurs séances
+  partent avec. « Envoyer à Léa » lui envoie **sa** séance par un lien que tu
+  partages toi-même : son contenu voyage dans le lien, aucun serveur ne le
+  voit.
 
 ## La localisation
 
