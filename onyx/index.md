@@ -5,7 +5,7 @@ title: "Politique de confidentialité — Onyx"
 
 # Politique de confidentialité — Onyx
 
-_Dernière mise à jour : 26 septembre 2026 · Éditeur : Loffay_
+_Dernière mise à jour : 2 octobre 2026 · Éditeur : Loffay_
 
 ## En une phrase
 
@@ -29,6 +29,10 @@ téléphone.
   kilomètre, et **le tracé GPS** quand la sortie a lieu dehors.
 - **Journal d'activité** commun aux sports : ce que tu as fait, quand,
   combien de temps, l'effort ressenti.
+- **Partenaires d'entraînement**, si tu en ajoutes : le prénom que tu tapes,
+  une couleur, et les séances qu'ils ont faites avec toi sur ce téléphone.
+  Ce sont des données sur d'autres personnes : rien ne leur est demandé ni
+  envoyé, et tu peux les retirer quand tu veux.
 
 ## La localisation
 
