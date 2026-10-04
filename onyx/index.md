@@ -5,7 +5,7 @@ title: "Politique de confidentialité — Onyx"
 
 # Politique de confidentialité — Onyx
 
-_Dernière mise à jour : 26 septembre 2026 · Éditeur : Loffay_
+_Dernière mise à jour : 4 octobre 2026 · Éditeur : Loffay_
 
 ## En une phrase
 
@@ -29,6 +29,22 @@ téléphone.
   kilomètre, et **le tracé GPS** quand la sortie a lieu dehors.
 - **Journal d'activité** commun aux sports : ce que tu as fait, quand,
   combien de temps, l'effort ressenti.
+- **Partenaires d'entraînement**, si tu en ajoutes : le prénom que tu tapes,
+  une couleur, et les séances qu'ils ont faites avec toi sur ce téléphone.
+  Ce sont des données sur d'autres personnes : rien ne leur est demandé, et
+  tu peux les retirer quand tu veux (Profil › Partenaires) — leurs séances
+  partent avec. « Envoyer à Léa » lui envoie **sa** séance par un lien que tu
+  partages toi-même : son contenu voyage dans le lien, aucun serveur ne le
+  voit.
+- **Rejoindre la séance d'un autre téléphone** : le QR code (ou le lien) que tu
+  montres porte ton prénom, la séance choisie et tes dernières charges. Rien
+  d'autre, et rien ne passe par un serveur. C'est l'appareil photo de l'autre
+  téléphone qui le lit : Onyx ne demande pas l'accès à l'appareil photo.
+- **Invitations**, si tu en envoies ou en reçois : qui invite qui, quand, où,
+  sur quelle séance, et la réponse. Elles voyagent par des liens que tu
+  partages toi-même, sans serveur au milieu, et restent sur ton téléphone.
+  « Ajouter à mon calendrier » ouvre l'écran de ton agenda, prérempli : c'est
+  toi qui l'enregistres, Onyx n'a pas accès à ton calendrier.
 
 ## La localisation
 
