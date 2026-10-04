@@ -5,7 +5,7 @@ title: "Politique de confidentialité — Onyx"
 
 # Politique de confidentialité — Onyx
 
-_Dernière mise à jour : 2 octobre 2026 · Éditeur : Loffay_
+_Dernière mise à jour : 4 octobre 2026 · Éditeur : Loffay_
 
 ## En une phrase
 
@@ -40,6 +40,11 @@ téléphone.
   montres porte ton prénom, la séance choisie et tes dernières charges. Rien
   d'autre, et rien ne passe par un serveur. C'est l'appareil photo de l'autre
   téléphone qui le lit : Onyx ne demande pas l'accès à l'appareil photo.
+- **Invitations**, si tu en envoies ou en reçois : qui invite qui, quand, où,
+  sur quelle séance, et la réponse. Elles voyagent par des liens que tu
+  partages toi-même, sans serveur au milieu, et restent sur ton téléphone.
+  « Ajouter à mon calendrier » ouvre l'écran de ton agenda, prérempli : c'est
+  toi qui l'enregistres, Onyx n'a pas accès à ton calendrier.
 
 ## La localisation
 
