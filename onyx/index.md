@@ -36,6 +36,10 @@ téléphone.
   partent avec. « Envoyer à Léa » lui envoie **sa** séance par un lien que tu
   partages toi-même : son contenu voyage dans le lien, aucun serveur ne le
   voit.
+- **Rejoindre la séance d'un autre téléphone** : le QR code (ou le lien) que tu
+  montres porte ton prénom, la séance choisie et tes dernières charges. Rien
+  d'autre, et rien ne passe par un serveur. C'est l'appareil photo de l'autre
+  téléphone qui le lit : Onyx ne demande pas l'accès à l'appareil photo.
 
 ## La localisation
 
